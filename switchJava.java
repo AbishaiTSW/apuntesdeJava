@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 public class switchJava {
-
-    // Método que evalúa el mes y devuelve la estación
-    public static String obtenerEstacion(String mes) {
+    
+public static String obtenerEstacion(String mes) {
+    
         String estacion;
 
         switch (mes.toLowerCase()) {
