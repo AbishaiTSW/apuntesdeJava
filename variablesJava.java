@@ -5,7 +5,7 @@ public class variablesJava {
         Scanner sc = new Scanner(System.in);
         int edad = 0;
         double altura = 0.0;
-        final double PI = 3.14159; // Constante para el valor de pi
+        
         String nombre = "";
         System.out.print("Ingrese su nombre: ");
         nombre = sc.nextLine();
